@@ -1,0 +1,65 @@
+#vardas {
+color: #ff8000;
+text-align: right-side;
+}
+
+.tekstas {
+color: white;
+text-align: center;
+background-color: #fff2e6;
+font-size: 60px;
+}
+
+.tekstas2 {
+background-color: #ff8533;
+text-align: center;
+font-size: 50px;
+color: white;
+height: 50px;
+}
+
+.antraste{
+	color:#ff6600;
+	
+	font-size: 100px;
+	text-align: center;
+}
+
+.antraste2{
+	color:#ff8533;
+	background-color:#fff2e6;
+	font-size: 80px;
+	text-align: center;
+}
+
+.psl{
+	color: orange;
+	fontsize :20px;
+	
+}
+
+table 
+
+a:link{
+	text-decoration: none;
+	color: white;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover {
+    color: #cc6600;
+}
+
+table{
+	margin:auto;
+	width: 50%;
+}
+
+.vidurys
+{
+	vertical-align: middle;
+	text-align : center;
+}

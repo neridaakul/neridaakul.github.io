@@ -1,0 +1,52 @@
+#vardas {
+color: #ff8000;
+text-align: right-side;
+}
+
+.tekstas {
+color: #ff8533;
+text-align: center;
+}
+
+.tekstas2 {
+color: #ff8533;
+text-align: center;
+}
+
+.antraste {
+color: #ff6600;
+text-align: center;
+
+}
+
+a:hover {
+    color: red;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+
+table{
+	margin:auto;
+	width: 50%;
+}
+
+.pirmas
+{
+	background-color: blue;
+	height: 300px;
+}
+
+.antras
+{
+	background-color: pink;
+	height: 150px;
+}
+
+.vidurys
+{
+	vertical-align: middle;
+	text-align : center;
+}

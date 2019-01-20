@@ -1,0 +1,185 @@
+.virsus
+{
+background-color: #0b0f1a;
+height: 50px;
+margin-top: 50px;
+}
+
+.tekstas
+{
+color: #d5cdd6;
+font-family: "Courier New";
+font-size: 25px;
+float:left;
+margin-left: 9px;
+margin-right: 9px;
+Margin-top: 12px
+}
+
+.tekstas:last-child
+{
+color: #d5cdd6;
+font-family: "Courier New";
+font-size: 25px;
+float: right;
+}
+
+a:link{
+	text-decoration: none;
+	color: #d5cdd6;
+}
+
+a:visited{
+	color: #d5cdd6;
+}
+
+a:hover {
+    color:#c0bbc2;
+}
+
+a1:link{
+	text-decoration: none;
+	color: #d5cdd6;
+}
+
+
+
+.pradzia{
+font-size: 70px;
+color: #0b0f1a;
+text-align: center;
+font-family: "Courier New";
+margin-top: 100px;
+}
+
+.korta{
+background-color:  #0b0f1a;
+margin-left: 450px;
+margin-right: 450px;
+height: 310px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+body
+{
+	margin:0;
+	background-image: url("forest.jpg");
+	height:100%;
+	background-position: center;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.pav
+{
+	color:#d5cdd6;
+	font-size: 20px;
+	float: right;
+	
+margin-top: 20px;
+margin-right:100px;
+font-family: "Courier New";
+
+}
+
+.data
+{
+	color:#83809d;
+	font-size: 15px;
+	float: right;
+	margin-top: 45px;
+	height: 17px;
+	width: 69px;
+	font-family: "Courier New";
+
+	
+}
+
+.foto
+{
+margin-top: 20px;
+margin-left:50px;
+padding-top: 30px;
+}
+
+.tekst{
+
+	color:#d5cdd6;
+	font-size: 15px;
+	padding-left:  200px;
+	margin-left: 280px;
+	padding-bottom: 200px;
+	margin-right: 50px;
+	font-family: "Courier New";
+	
+float: right;}
+	
+	
+.prad{
+font-size: 50px;
+color: #0b0f1a;
+text-align: center;
+font-family: "Courier New";
+margin-top: 30px;}
+
+.korta1{
+background-color:  #0b0f1a;
+margin-left: 450px;
+margin-right: 450px;
+height: 400px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+	
+.korta2{
+background-color:  #0b0f1a;
+margin-left: 450px;
+margin-right: 450px;
+height: 800px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+	
+.vard {
+
+	color:#d5cdd6;
+	font-size: 20px;
+	padding-left:  50px;
+	margin-left: 200px;
+	padding-bottom: 200px;
+	margin-right: 50px;
+	font-family: "Courier New";
+	
+}
+	
+	.korta3{
+background-color:  #0b0f1a;
+margin-left: 450px;
+margin-right: 450px;
+height: 1000px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.fotos{
+margin-left: 340px;
+margin-top: 50px;
+margin-bottom: 50px;
+padding-top:60px;
+}
+
+
+.teks{
+font-family: "Courier new";
+font-size: 15px;
+margin-left: 60px;
+margin-right: 60px;
+color:#d5cdd6;
+}
+
+.media{
+margin-top: 300px;
+margin-left: 380px;
+}
